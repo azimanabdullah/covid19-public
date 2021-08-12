@@ -52,10 +52,10 @@ _Please submit a pull request here if you would like to request more data. Our t
      - Cases detected upon arrival in Malaysia
      - Cases who developed the illness during quarantine or isolation
  9) Breakdown by test type (RTK-Ag or RT-PCR)
-   
+
 ### Healthcare
 
-1)
+1) Actual duration of stay at hospital or PKRC for positive patient with age, sex, blood type, comorbidities and vaccination status.
 
 ### Deaths
 
@@ -74,3 +74,5 @@ _Please submit a pull request here if you would like to request more data. Our t
 2) Population age group of MySejahtera check-ins, specified on by-state level
 3) Check-in locations categorized (e.g. supermarkets, hospitals) by state
 
+### Demography
+1) Population with age group for all district and state in Malaysia.
